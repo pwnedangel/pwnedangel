@@ -1,16 +1,12 @@
-## Hi there 👋
+![](https://files.catbox.moe/2jofcs.webp)
+<p align="center">
+<img src="https://files.catbox.moe/qo9po4.gif">
+</p>
 
-<!--
-**pwnedangel/pwnedangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+　　　　　　　　　  　　　　　　　　　　　　ㅤ　 　　　　　　![](https://komarev.com/ghpvc/?username=pwnedangel&color=061521&style=plastic&label=　　　　🪽　　　　)
+## 
+<p align="center">
+<img src="https://files.catbox.moe/avwwhu.webp">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://files.catbox.moe/cb0lup.webp)
